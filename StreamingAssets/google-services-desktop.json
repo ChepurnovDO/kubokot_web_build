@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "539888194501",
+    "firebase_url": "https://kubocat-for-kids.firebaseio.com",
+    "project_id": "kubocat-for-kids",
+    "storage_bucket": "kubocat-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539888194501:android:c3bbed0bd84f3c999ef1ac",
+        "android_client_info": {
+          "package_name": "com.mediatelekom.android.kids.kubocat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539888194501-2occs92m3sc371pver5p6444nleubcqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.android.kids.kubocat",
+            "certificate_hash": "56a483032a4437d538adc6f0a4ebf937cc256c6e"
+          }
+        },
+        {
+          "client_id": "539888194501-88emq56s5m446v7dtgrqmtjgdfmkojr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.android.kids.kubocat",
+            "certificate_hash": "8588d9e950037cb8fb70ba847d40b746d7b870e8"
+          }
+        },
+        {
+          "client_id": "539888194501-bduplj37dtqgkit2458nvtg04ie5fvib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.android.kids.kubocat",
+            "certificate_hash": "ee10f4acb5e269e3a41222852117360aba7295fb"
+          }
+        },
+        {
+          "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAAKQr89GkPXSPebB3Gcq9lSkGJT8xiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539888194501-2huslanvrsh8kgvhs80sfcgtmj7bsk35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediatelekom.kubocat.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539888194501:android:c74041308fad060a9ef1ac",
+        "android_client_info": {
+          "package_name": "com.mediatelekom.android.parent.kubocat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539888194501-19kj4ldl35umebk352c5snecnveurf43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.android.parent.kubocat",
+            "certificate_hash": "8588d9e950037cb8fb70ba847d40b746d7b870e8"
+          }
+        },
+        {
+          "client_id": "539888194501-4ps4lrogdc1tcb36b35bsmnoujbb3e1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.android.parent.kubocat",
+            "certificate_hash": "f252a2cc062048991d61fb28e7ff423337f423ab"
+          }
+        },
+        {
+          "client_id": "539888194501-bcj86k1cj1kdga6lr60ejqai1hhmpe36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.android.parent.kubocat",
+            "certificate_hash": "56a483032a4437d538adc6f0a4ebf937cc256c6e"
+          }
+        },
+        {
+          "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAAKQr89GkPXSPebB3Gcq9lSkGJT8xiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539888194501-2huslanvrsh8kgvhs80sfcgtmj7bsk35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediatelekom.kubocat.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539888194501:android:953603705c4621f79ef1ac",
+        "android_client_info": {
+          "package_name": "com.mediatelekom.kubocat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539888194501-kosakbnf2gqk54tqjnlgo1529idnqu4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.kubocat.android",
+            "certificate_hash": "8588d9e950037cb8fb70ba847d40b746d7b870e8"
+          }
+        },
+        {
+          "client_id": "539888194501-ro0mvl6qc2nbq9aa0d6ir3r7db810mfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.kubocat.android",
+            "certificate_hash": "56a483032a4437d538adc6f0a4ebf937cc256c6e"
+          }
+        },
+        {
+          "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAAKQr89GkPXSPebB3Gcq9lSkGJT8xiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539888194501-2huslanvrsh8kgvhs80sfcgtmj7bsk35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediatelekom.kubocat.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539888194501:android:1f2b60696d0bd30a9ef1ac",
+        "android_client_info": {
+          "package_name": "com.mediatelekom.kubocat.parent.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539888194501-b2bss2g0qj469loj36uk58mn2jg5av12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediatelekom.kubocat.parent.android",
+            "certificate_hash": "56a483032a4437d538adc6f0a4ebf937cc256c6e"
+          }
+        },
+        {
+          "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxAAKQr89GkPXSPebB3Gcq9lSkGJT8xiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539888194501-fa7nomur5uh1kdnu3rf1snnf9j0rpv60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539888194501-2huslanvrsh8kgvhs80sfcgtmj7bsk35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediatelekom.kubocat.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -15,8 +15,9 @@
     <type fullname="STS.Games.Common.Animations.UiShakeBounceYAnimation" preserve="all" />
     <type fullname="STS.Games.Common.Animations.UiShakeRotationAnimation" preserve="all" />
     <type fullname="STS.Games.Common.CharacterView.CharacterViewUI" preserve="all" />
-    <type fullname="STS.Games.Construct.DropPoint" preserve="all" />
-    <type fullname="STS.Games.Construct.ItemPreset" preserve="all" />
+    <type fullname="STS.Games.Common.GameItemIDs.SymbolGameItemID" preserve="all" />
+    <type fullname="STS.Games.Construct.Editor.DropPoint" preserve="all" />
+    <type fullname="STS.Games.Construct.Editor.ItemPreset" preserve="all" />
     <type fullname="STS.Games.Construct.LetterItem" preserve="all" />
     <type fullname="STS.Games.DrawLines.ArrowTrip" preserve="all" />
     <type fullname="STS.Games.DrawLines.ArrowView" preserve="all" />
@@ -30,7 +31,7 @@
     <type fullname="STS.Games.MathBlocks.Game.MathBlock" preserve="all" />
     <type fullname="STS.Games.MathBlocks.Game.MathBlocksGameBoard" preserve="all" />
     <type fullname="STS.Games.MathBlocks.Game.MathBlockShapeInfo" preserve="all" />
-    <type fullname="STS.Games.Parachutes.RandomIdleState" preserve="all" />
+    <type fullname="STS.Games.Parachutes.Components.RandomIdleState" preserve="all" />
     <type fullname="STS.Games.Quest.Modules.Clicker.Base.Animations.ClickerFlipAnimation" preserve="all" />
     <type fullname="STS.Games.Quest.Modules.Clicker.Base.IdentifiedClickerGameItem" preserve="all" />
     <type fullname="STS.Games.Quest.Modules.Clicker.Clicker.ClickerGameItem" preserve="all" />
@@ -40,20 +41,19 @@
     <type fullname="STS.Games.Quest.Modules.Clicker.SequenceClicker.BaseClickerGameLevel" preserve="all" />
     <type fullname="STS.Games.Quest.Modules.FadedPresentation.TextureDrawer" preserve="all" />
     <type fullname="STS.Games.Quest.Modules.FadedPresentation.TextureDrawersSequence" preserve="all" />
+    <type fullname="STS.Games.Sorting.Components.FixedRotationDegree" preserve="all" />
     <type fullname="STS.Games.Sorting.Components.SortingContainer" preserve="all" />
+    <type fullname="STS.Games.Sorting.Components.SortingContainerAnimState" preserve="all" />
+    <type fullname="STS.Games.Sorting.Components.SortingContainerBasket" preserve="all" />
+    <type fullname="STS.Games.Sorting.Components.SortingGameLevel" preserve="all" />
     <type fullname="STS.Games.Sorting.Components.SortingObject" preserve="all" />
-    <type fullname="STS.Games.Sorting.FixedRotationDegree" preserve="all" />
+    <type fullname="STS.Games.Sorting.Components.SortingObjectAnimState" preserve="all" />
     <type fullname="STS.Games.Sorting.InGameComponents.EndGameAnimations.SortingAfterGameEndAnimations" preserve="all" />
     <type fullname="STS.Games.Sorting.InGameComponents.EndGameAnimations.SortingEndGameAnimationMove" preserve="all" />
     <type fullname="STS.Games.Sorting.InGameComponents.EndGameAnimations.SortingEndGameAnimationScale" preserve="all" />
     <type fullname="STS.Games.Sorting.InGameComponents.SortingMoveObjectAfterContainerFillAnimation" preserve="all" />
     <type fullname="STS.Games.Sorting.InGameComponents.SortingPlaySoundAfterObjectPlacement" preserve="all" />
     <type fullname="STS.Games.Sorting.InGameComponents.SortingShowCanvasGroupAfterGameCompleteAnimation" preserve="all" />
-    <type fullname="STS.Games.Sorting.SortingContainerAnimState" preserve="all" />
-    <type fullname="STS.Games.Sorting.SortingContainerBasket" preserve="all" />
-    <type fullname="STS.Games.Sorting.SortingGameLevel" preserve="all" />
-    <type fullname="STS.Games.Sorting.SortingObjectAnimState" preserve="all" />
-    <type fullname="STS.Games.Sorting.SymbolSelector" preserve="all" />
     <type fullname="STS.Games.Sorting.WheelLevel.CharacterCloudAnimationState" preserve="all" />
     <type fullname="STS.Games.Sorting.WheelLevel.ObjectCharacterInCabin" preserve="all" />
     <type fullname="STS.Games.Sorting.WheelLevel.SortingContainerWithCharacter" preserve="all" />
@@ -64,13 +64,7 @@
     <type fullname="UIBend" preserve="all" />
     <type fullname="STS.Core.TutorSettingsWithOffsets" preserve="nothing" serialized="true" />
     <type fullname="NG.Loaders.AssetReferenceTLoader`1" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Common.ItemIdentificator.ColorID" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Common.ItemIdentificator.EmotionID" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Common.ItemIdentificator.EnglishLetterID" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Common.ItemIdentificator.LetterID" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Common.ItemIdentificator.NumberID" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Common.ItemIdentificator.ShapeID" preserve="nothing" serialized="true" />
-    <type fullname="STS.Games.Construct.ItemPreset/SpriteItem" preserve="nothing" serialized="true" />
+    <type fullname="STS.Games.Construct.Editor.ItemPreset/SpriteItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="ParkingGame, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Games.ParkingGame.GridAutoNamer" preserve="all" />
@@ -122,6 +116,7 @@
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
